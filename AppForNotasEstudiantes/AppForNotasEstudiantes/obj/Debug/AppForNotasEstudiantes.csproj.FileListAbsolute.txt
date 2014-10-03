@@ -1,0 +1,6 @@
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForNotasEstudiantes\AppForNotasEstudiantes\bin\Debug\AppForNotasEstudiantes.exe.config
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForNotasEstudiantes\AppForNotasEstudiantes\bin\Debug\AppForNotasEstudiantes.exe
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForNotasEstudiantes\AppForNotasEstudiantes\bin\Debug\AppForNotasEstudiantes.pdb
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForNotasEstudiantes\AppForNotasEstudiantes\obj\Debug\AppForNotasEstudiantes.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForNotasEstudiantes\AppForNotasEstudiantes\obj\Debug\AppForNotasEstudiantes.exe
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForNotasEstudiantes\AppForNotasEstudiantes\obj\Debug\AppForNotasEstudiantes.pdb

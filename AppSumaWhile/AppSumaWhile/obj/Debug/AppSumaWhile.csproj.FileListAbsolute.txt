@@ -1,0 +1,5 @@
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppSumaWhile\AppSumaWhile\bin\Debug\AppSumaWhile.exe.config
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppSumaWhile\AppSumaWhile\bin\Debug\AppSumaWhile.exe
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppSumaWhile\AppSumaWhile\bin\Debug\AppSumaWhile.pdb
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppSumaWhile\AppSumaWhile\obj\Debug\AppSumaWhile.exe
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppSumaWhile\AppSumaWhile\obj\Debug\AppSumaWhile.pdb

@@ -1,0 +1,6 @@
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\Appwhile2\Appwhile2\bin\Debug\Appwhile2.exe.config
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\Appwhile2\Appwhile2\bin\Debug\Appwhile2.exe
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\Appwhile2\Appwhile2\bin\Debug\Appwhile2.pdb
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\Appwhile2\Appwhile2\obj\Debug\Appwhile2.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\Appwhile2\Appwhile2\obj\Debug\Appwhile2.exe
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\Appwhile2\Appwhile2\obj\Debug\Appwhile2.pdb

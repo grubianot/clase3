@@ -1,0 +1,6 @@
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForMayorAmil\AppForMayorAmil\bin\Debug\AppForMayorAmil.exe.config
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForMayorAmil\AppForMayorAmil\bin\Debug\AppForMayorAmil.exe
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForMayorAmil\AppForMayorAmil\bin\Debug\AppForMayorAmil.pdb
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForMayorAmil\AppForMayorAmil\obj\Debug\AppForMayorAmil.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForMayorAmil\AppForMayorAmil\obj\Debug\AppForMayorAmil.exe
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppForMayorAmil\AppForMayorAmil\obj\Debug\AppForMayorAmil.pdb
